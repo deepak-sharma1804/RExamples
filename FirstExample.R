@@ -4,3 +4,4 @@ for(i in l1){
 }
 l1
 sapply(l1,print)
+lapply(l1,print)
